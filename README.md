@@ -22,7 +22,7 @@
     <a href="https://github.com/pgonzs08">
       <img src="https://img.shields.io/badge/GitHub-pgonzs08-0b132b?style=for-the-badge&logo=github&logoColor=f4d35e" alt="GitHub" />
     </a>
-    <a href="https://linkedin.com/in/pablo-gonzalez-santamarta">
+    <a href="https://linkedin.com/in/pablo-gonzález-santamarta">
       <img src="https://img.shields.io/badge/LinkedIn-Pablo%20González-8b1e24?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
     </a>
     <a href="mailto:pablogonstm@gmail.com">
