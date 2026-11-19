@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/GitHub-pgonzs08-0b132b?style=for-the-badge&logo=github&logoColor=f4d35e" alt="GitHub" />
     </a>
     <a href="https://linkedin.com/in/pablo-gonzalez-santamarta">
-      <img src="https://img.shields.io/badge/LinkedIn-Pablo%20Gonz%C3%A1lez-8b1e24?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Pablo%20González-8b1e24?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
     </a>
     <a href="mailto:pablogonstm@gmail.com">
       <img src="https://img.shields.io/badge/Email-pablogonstm%40gmail.com-1c2541?style=for-the-badge&logo=gmail&logoColor=f4d35e" alt="Email" />
