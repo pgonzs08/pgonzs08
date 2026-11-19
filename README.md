@@ -50,7 +50,7 @@
     <li><strong>Sistemas agénticos y recuperación de información:</strong> flujos multi-agente, búsqueda vectorial, interfaces API y aplicaciones web interactivas.</li>
     <li><strong>Modelado y experimentación en ML / Deep Learning:</strong> arquitecturas neuronales, optimización de hiperparámetros, series temporales y cómputo científico.</li>
     <li><strong>Procesamiento intensivo de datos y despliegue:</strong> transformación de grandes volúmenes de datos, almacenamiento estructurado/vectorial y entornos contenerizados.</li>
-    <li><strong>Dominios aplicados:</strong> ciberseguridad, biomedicina, simulación/visualización científica y herramientas *open-source*.</li>
+    <li><strong>Dominios aplicados:</strong> ciberseguridad, simulación/visualización científica y herramientas *open-source*.</li>
   </ul>
 </div>
 
