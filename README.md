@@ -185,6 +185,16 @@
      ===================================================================== -->
 
 <div align="center" style="margin-top: 24px; padding-top: 16px; border-top: 1px dashed #94a3b8;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pgonzs08&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pgonzs08&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/pgonzs08">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=pgonzs08&show_icons=true&bg_color=00000000&title_color=d4af37&icon_color=e63946&text_color=64748b&border_color=d4af37&hide_border=false"
+      alt="GitHub Stats"
+    />
+  </a>
+  <a href="https://github.com/pgonzs08">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=pgonzs08&background=00000000&ring=e63946&fire=d4af37&currStreakLabel=d4af37&sideLabels=64748b&currStreakNum=64748b&sideNums=64748b&dates=64748b&border=d4af37"
+      alt="GitHub Streak"
+    />
+  </a>
 </div>
