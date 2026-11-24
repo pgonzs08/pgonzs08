@@ -100,7 +100,7 @@
     <tr>
       <td><strong>Datos, Cloud & Contenedores</strong></td>
       <td>
-        <code>Apache Spark</code> · <code>Polars</code> · <code>MySQL</code> · <code>MongoDB</code> · <code>BigQuery</code> · <code>Qdrant</code> · <code>Google Cloud Platform</code> · <code>Docker</code> · <code>Kubernetes</code>
+        <code>Apache Spark</code> · <code>Polars</code> · <code>MongoDB</code> · <code>BigQuery</code> · <code>Qdrant</code> · <code>Google Cloud Platform</code> · <code>Docker</code> · <code>Kubernetes</code>
       </td>
       <td>
         Procesamiento tabular/distribuido, bases relacionales, documentales y vectoriales, cloud y contenedores.
