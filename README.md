@@ -28,7 +28,6 @@
     <a href="mailto:pablogonstm@gmail.com">
       <img src="https://img.shields.io/badge/Email-pablogonstm%40gmail.com-1c2541?style=for-the-badge&logo=gmail&logoColor=f4d35e" alt="Email" />
     </a>
-    <img src="https://img.shields.io/badge/Granada%2C%20Spain-Remote%20%2F%20EU-2b2d42?style=for-the-badge" alt="Location" />
   </div>
 
 </div>
